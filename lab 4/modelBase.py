@@ -4,7 +4,7 @@ class ModelBaseAgent():
     def DoAction(self,location,status):
         self.model[location] = status
         print(self.model)
-        if self.model["Loc_a"] == self.model["Loc_a"] == 'clean'
+        if self.model["Loc_a"] == self.model["Loc_a"] == 'clean':
             return 'NoOp'
         elif status == 'dirty':
             return 'suck'
@@ -13,5 +13,5 @@ class ModelBaseAgent():
         else:
             return 'left'
         
-a = ModelBaseAgent('dirty','dirty')
-print(a.DoAction('Loc_a', 'dirty'))
+a = ModelBaseAgent('clean','clean')
+print(a.DoAction('Loc_a', 'clean'))
