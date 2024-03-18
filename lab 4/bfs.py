@@ -10,7 +10,7 @@ def bfs(graph, start):
             for neighbor in graph[vertex]:
                 if neighbor not in visited:
                     queue.append(neighbor)
-
+    
 # Example graph representation (dictionary of lists)
 graph = {
     'A': ['B', 'C'],
