@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AILab1_22_02_2024/1.0.0": {
+        "runtime": {
+          "AILab1_22_02_2024.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AILab1_22_02_2024/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

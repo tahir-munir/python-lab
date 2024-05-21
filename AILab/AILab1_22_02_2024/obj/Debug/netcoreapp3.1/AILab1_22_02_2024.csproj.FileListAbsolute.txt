@@ -1,0 +1,13 @@
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.exe
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.deps.json
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.runtimeconfig.json
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.runtimeconfig.dev.json
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.dll
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\bin\Debug\netcoreapp3.1\AILab1_22_02_2024.pdb
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.csprojAssemblyReference.cache
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.AssemblyInfoInputs.cache
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.AssemblyInfo.cs
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.csproj.CoreCompileInputs.cache
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.dll
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.pdb
+C:\Users\student.LAB-AI-070\Desktop\AILab1(22-02-2024)\AILab1_22_02_2024\obj\Debug\netcoreapp3.1\AILab1_22_02_2024.genruntimeconfig.cache

@@ -18,7 +18,7 @@ print(centroids)
 
 labels = kmeans.labels_
 print("\nLabels:")
-print(labels)
+print(labels) 
 
 # Visualizing the clusters (for 2D datasets)
 plt.scatter(X.iloc[:, 0], X.iloc[:, 1], c=labels, cmap='viridis')
